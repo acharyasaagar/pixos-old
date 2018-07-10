@@ -1,4 +1,4 @@
-# pixos1
+# pixos
 
 > A Vue.js project
 
